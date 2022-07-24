@@ -1,6 +1,6 @@
-# PASOS DE INSTALACION FRONT REACT 
+# PASOS DE INSTALACION SYS UMINE-TAREA
 
-tarea para el cargo de desarrollador fulltack Umine [Nelson Araya](https://github.com/NelsonAraya).
+tarea para el cargo de desarrollador fullstack para Empresa Umine  Desarrollado por [Nelson Araya](https://github.com/NelsonAraya).
 
 ## PARA INICIAR
 
@@ -13,4 +13,4 @@ Ejecutarmeos en nuestra Consola el siguiente comando para instalar nuestras depe
 ### `npm install`
 Para correr Nuestra aplicacion ejecutaremos el siguiente comando
 ### `npm start`
-La cual se abriarla direccion [http://localhost:3000](http://localhost:3000) En nuestro navegador.
+La cual se abrira la siguiente direccion [http://localhost:3000](http://localhost:3000) En nuestro navegador.
