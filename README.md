@@ -13,7 +13,7 @@ node v16.16.0
 
 para comenzar la instalacion del front vamos a clonar nuestro repositorio
 ```php
-git clone https://github.com/NelsonAraya/ApiFrontEndReactUmine.git`
+git clone https://github.com/NelsonAraya/ApiFrontEndReactUmine.git
 ```
 Ingresaremos a nuestro directorio 
 ```php
