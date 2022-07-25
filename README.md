@@ -12,13 +12,20 @@ node v16.16.0
 ## PARA INICIAR
 
 para comenzar la instalacion del front vamos a clonar nuestro repositorio
-
-### `git clone https://github.com/NelsonAraya/ApiFrontEndReactUmine.git`
+```php
+git clone https://github.com/NelsonAraya/ApiFrontEndReactUmine.git`
+```
 Ingresaremos a nuestro directorio 
-### `cd ApiFrontEndReactUmine`
+```php
+cd ApiFrontEndReactUmine
+```
 Ejecutaremos en nuestra Consola el siguiente comando para instalar nuestras dependencias
-### `npm install`
+```php
+npm install
+```
 Para correr Nuestra aplicacion ejecutaremos el siguiente comando
-### `npm start`
+```php
+npm start
+```
 La cual se abrira la siguiente direccion [http://localhost:3000](http://localhost:3000) En nuestro navegador.
 y podremos ingresar a nuestro sitio
