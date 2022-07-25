@@ -18,10 +18,10 @@ const Home = () => {
         <div className='container'>
             <div className="card">
             <div className="card-header">
-                SISTEMA 
+                PRUEBA TECNICA 
             </div>
                 <div className='card-body'>
-                    <h5 className="card-title">SISTEMA GESTION DE USUARIOS A COLEGIOS PARA OPTAR AL CARGO DESARROLLADOR FULLSTACK UMINE</h5>
+                    <h5 className="card-title">SISTEMA GESTION DE USUARIOS A COLEGIOS PARA OPTAR AL CARGO DESARROLLADOR FULL STACK UMINE</h5>
                     <p className="card-text">Sistema Desarrollado en BACKEND LARAVEL y FRONTEND REACT
                     el sistema consta con validador de rut y  validador de formularios:</p>
                     <br></br>

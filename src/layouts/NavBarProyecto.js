@@ -63,7 +63,7 @@ const NavBarProyecto = () => {
     <>
     <Navbar bg="light" expand="lg">
         <Container>
-        <Navbar.Brand as={Link} to="/">SYS UMINE-TAREA</Navbar.Brand>
+        <Navbar.Brand as={Link} to="/">SYS UMINE-PRUEBA TECNICA</Navbar.Brand>
         <Navbar.Toggle aria-controls="basic-navbar-nav" />
         <Navbar.Collapse id="basic-navbar-nav">
             {AuthButtons}  

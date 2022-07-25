@@ -1,4 +1,4 @@
-# PASOS DE INSTALACION SYS UMINE-TAREA -- FRONT REACT
+# PASOS DE INSTALACION SYS UMINE-PRUEBA TECNICA -- FRONT REACT
 
 Tarea para el cargo de desarrollador fullstack para Empresa Umine  Desarrollado por [Nelson Araya](https://github.com/NelsonAraya).
 ### COMPONENTES UTILIZADOS
