@@ -26,12 +26,12 @@ const Home = () => {
                     el sistema consta con validador de rut y  validador de formularios:</p>
                     <br></br>
                     <p>
-                    Sistema cuenta con los siguientes modulos;
+                    Sistema cuenta con los siguientes modulos:
                     </p>
                     <ul className="list-group">
                         <li className="list-group-item">Crear usuarios</li>
-                        <li className="list-group-item">Editar Usuarios</li>
-                        <li className="list-group-item">Eliminar Usuarios</li>
+                        <li className="list-group-item">Editar usuarios</li>
+                        <li className="list-group-item">Eliminar usuarios</li>
                         <li className="list-group-item">Listar usuarios</li>
                         <li className="list-group-item">Listar colegios</li>
                         <li className="list-group-item">Listar usuarios por colegios</li>

@@ -16,7 +16,7 @@ const LoginUsuario = () => {
             if(res.data.status ===200){
                 localStorage.setItem('auth_token',res.data.token)
                 localStorage.setItem('auth_name',res.data.name)
-                navigate('/usuarios')
+                navigate('/')
                 Swal.fire({
                     icon: 'success',
                     title: 'Bienvenido',
